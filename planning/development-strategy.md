@@ -1,55 +1,43 @@
-# Project Name
+# Loruki Rebuild
 
-<!-- describe your project -->
+It's a website where we can deploy our projects.
 
 ---
 
 ## Setup
 
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
+- Create a new repo from the template
+- add collaborators
+- turn on github pages and give them write access
+- protect main branch
+- turn on discussion
 
----
+## Home page
 
-<!-- copy this section once for each must-have user story -->
+### Logo
 
-## user story
+- As a user, I want to see the `logo` and the `navigation links`
 
-<!-- each issue created from this section will have the `for: user story` label -->
+### Showcase
 
-> "as a ... i can ... so that ..."
+- As a user, I I want to see the `title`, `description` and `form`
 
-<!-- write any extra notes or description -->
+### Statistics
 
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+- As a user, I want to see the `paragraph`, and `3 statistics`
 
-### Logic: user story
+### Images
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- As a user, I want to see the `images`, and `texts`
 
-### Interface: user story
+### Extra Info
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- As a user, I want to see the `text`, `button`, and `image`
 
-### Interaction: user story
+### Languages
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- As a user, I want to see the `text`, and `logos`
 
-### Documentation: user story
+### Footer
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- As a user, I want to see the `footer`, and `social media links`
