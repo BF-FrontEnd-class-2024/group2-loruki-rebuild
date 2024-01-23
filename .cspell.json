@@ -18,7 +18,8 @@
     "Agnieszka",
     "Richelle",
     "Gultekin",
-    "Yana"
+    "Yana",
+    "hostings"
   ],
   "ignorePaths": [
     "node_modules/**",
