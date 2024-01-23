@@ -1,4 +1,6 @@
-# Cory, 38
+# User-personas
+
+## Cory, 38
 
 ![user photo](./cory.png)
 
@@ -6,9 +8,9 @@
 - **Frustrations: He couldn't find a nice website, simple to use and cheap**
 - **Goals: He needs a website to host his projects**
 - **Scenario 1: He doesn't have a lot of experience, doesn't know website to
-  deploy his projects**
+  deploy his projects.**
 
-# Margaret, 35
+## Margaret, 35
 
 ![user photo](./margaret.png)
 

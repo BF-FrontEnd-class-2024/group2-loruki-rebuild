@@ -7,24 +7,18 @@ create your own!
 
 ## Must-Haves
 
-> these are necessary for basic usability
+- [ ] As a user I want to see the `logo` and `navigation links` so that I can go
+      to the different parts of the page.
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user I want to see the `title` and `description` and the `form` so
+      that I can understand easily what the website is about.
+
+- [ ] As a user I want to see different containers that includes different info,
+      logos about the website.
+
+- [ ] As a user I want to see at the end of the page a `footer` with some links
+      to `social medias` so I can easily go to my favorite page.
 
 ## Should-Haves
 
-> these will complete the user experience, but are not necessary
-
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
-
 ## Could-Haves
-
-> would be really cool ... if there's time
-
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
