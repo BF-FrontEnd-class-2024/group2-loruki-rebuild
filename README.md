@@ -1,64 +1,68 @@
-# Name of project
+# Loruki rebuild
 
-> A longer description
+> Rebuild of the existing web Loruki website.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
-  - [Table of contents](#table-of-contents)
-  - [General info](#general-info)
-  - [Screenshots](#screenshots)
-  - [Technologies](#technologies)
-  - [Setup](#setup)
-  - [Code Examples](#code-examples)
-  - [Features](#features)
-  - [Status](#status)
-  - [Inspiration](#inspiration)
-  - [Contact](#contact)
-  - [Instructions for use](#instructions-for-use)
-  - [Code Quality Checks](#code-quality-checks)
-  - [Continuous Integration (CI)](#continuous-integration-ci)
-  - [Repo Setup](#repo-setup)
+- [Name of project](#loruki-rebuild)
+- [Table of contents](#table-of-contents)
+- [General info](#general-info)
+- [Screenshot](#screenshot)
+- [Technologies](#technologies)
+- [Setup](#setup)
+- [Code Examples](#code-examples)
+- [Features](#features)
+- [Status](#status)
+- [Inspiration](#inspiration)
+- [Contact](#contact)
+- [Instructions for use](#instructions-for-use)
+- [Code Quality Checks](#code-quality-checks)
+- [Continuous Integration (CI)](#continuous-integration-ci)
+- [Repo Setup](#repo-setup)
 
 ## General info
 
-> A short description
+> Developers, teams, and businesses of all sizes use Loruki to deploy, manage,
+> and scale apps.
 
-## Screenshots
+## Screenshot
 
-![Example screenshot](./planning/screenshot.jpg)
+![screenshot](./planning/screenshot.png)
 
 ## Technologies
 
-- Node 14.16.0
-- VSC code
-- JavaScript
-- ...
-- ...
+- Node v21.5.0
+- VSCode
+- Github
+- Git
+- HTML5
+- CSS3
 
 ## Setup
 
-- `npm run start`
+- Create a new repo form the template
+- Add collaborators
+- Turn on github pages and give them write access
+- Protect main branch
+- Turn on discussion
 
 ## Code Examples
 
-```js
-// the hello world program
-console.log("Hello World");
+```html
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="./client/assets/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>project!</title>
+  <link href="./styles/index.css" rel="stylesheet" />
+</head>
 ```
 
 ## Features
 
 List of features ready and Todos for future development
 
--
--
--
-
-To-do list:
-
--
--
+- Social login will be added.
 
 ## Status
 
@@ -70,7 +74,10 @@ Project by freeCodeCamp.org
 
 ## Contact
 
-By [Name]
+By [Agnieszka](https://github.com/Agnieszka-Dzwolak),
+[Yana](https://github.com/enteryana),
+[Richelle](https://github.com/richellepintucan),
+[Gultekin](https://github.com/gultekinbirol)
 
 ## Instructions for use
 
@@ -79,9 +86,8 @@ By [Name]
 
 <!-- a guide to using this repository -->
 
-1. `git clone git@github.com:HackYourFutureBelgium/template-markdown.git`
-2. `cd template-markdown`
-3. `npm install`
+1. `git clone https://github.com/BF-FrontEnd-class-2024/group2-loruki-rebuild.git`
+2. `npm install`
 
 ## Code Quality Checks
 
