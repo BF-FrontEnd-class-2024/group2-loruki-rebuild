@@ -1,26 +1,28 @@
 # Communication
 
+- zoom
+- slack
+
 ## Group Rules
 
-<!-- any general rules you'd like to set for your group? -->
-
----
+- respect and help each other
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day |   How    | The topic of discussion |
+| --- | :------: | ----------------------- |
+| 1   | together | planning, md files      |
+| 2   | together | html, css               |
 
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **GitHub Discussions**
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**: 9 a.m. - 5 p.m.
+- **Pull Requests**: 9 a.m. - 5 p.m.
+- **GitHub Discussions**: 9 a.m. - 5 p.m.
+- **Slack/Discord**: 9 a.m. - 5 p.m.
+- **Video Calls**: 9 a.m. - 5 p.m.
 
 ---
 
@@ -28,17 +30,19 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day         |    Tuesday    |  Wednesday   |
+| ----------- | :-----------: | :----------: |
+| _Agnieszka_ | 11:06 - 17:00 | 9:00 - 17:00 |
+| _Richelle_  | 11:06 - 17:00 | 9:00 - 17:00 |
+| _Gultekin_  | 11:06 - 17:00 | 9:00 - 17:00 |
+| _Yana_      | 11:06 - 17:00 | 9:00 - 17:00 |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Agnieszka: day 1 - _5h_; day 2 - _7h_;
+- Richelle: day 1 - _5h_; day 2 - _7h_;
+- Gultekin: day 1 - _5h_; day 2 - _7h_;
+- Yana: day 1 - _5h_; day 2 - _7h_;
 
 ## Asking for Help
 
