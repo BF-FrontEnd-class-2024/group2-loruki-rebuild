@@ -41,3 +41,23 @@ It's a website where we can deploy our projects.
 ### Footer
 
 - As a user, I want to see the `footer`, and `social media links`
+
+---
+
+## Feature page
+
+### Navbar
+
+- As a user, I want to see the `logo` and the `navigation links`
+
+### Head
+
+- As a user, I want to see the `features` and `img`
+
+### Sub head
+
+- As a user, I want to see the `description`, `img` and `5 paragraphs`
+
+### Footer
+
+- As a user, I want to see the `footer`, and `social media links`
