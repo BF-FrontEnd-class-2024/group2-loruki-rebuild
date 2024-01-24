@@ -61,3 +61,23 @@ It's a website where we can deploy our projects.
 ### Footer
 
 - As a user, I want to see the `footer`, and `social media links`
+
+---
+
+## Docs page
+
+### Navbar
+
+- As a user, I want to see the `logo` and the `navigation links`
+
+### Head
+
+- As a user, I want to see the `description` and `img`
+
+### Docs main
+
+- As a user, I want to see the `aside` and `introduction`
+
+### Footer
+
+- As a user, I want to see the `footer`, and `social media links`
