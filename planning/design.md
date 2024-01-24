@@ -9,3 +9,7 @@ Main page - Home
 Second page - Features
 
 > ![design](./screenshot2.png)
+
+Third page - Docs
+
+> ![design](./screenshot3.png)
