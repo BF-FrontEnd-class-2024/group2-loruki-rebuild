@@ -7,6 +7,8 @@ create your own!
 
 ## Must-Haves
 
+> First page - Home
+
 - [ ] As a user I want to see the `logo` and `navigation links` so that I can go
       to the different parts of the page.
 
@@ -20,5 +22,16 @@ create your own!
       to `social medias` so I can easily go to my favorite page.
 
 ## Should-Haves
+
+> Second page -Features
+
+- [ ] As a user I want to see the `logo` and `navigation links` so that I can go
+      to the different parts of the page.
+
+- [ ] As a user I want to see different containers that includes different info,
+      logos about the website.
+
+- [ ] As a user I want to see at the end of the page a `footer` with some links
+      to `social medias` so I can easily go to my favorite page.
 
 ## Could-Haves
